@@ -1,0 +1,4 @@
+MilkyWay 100 10 50 40
+Andromeda 200 30 30 40
+Magellan 150 10 20 70
+Oreon 200 40 10 50

@@ -1,0 +1,36 @@
+// lab2b.cpp: определ€ет точку входа дл€ консольного приложени€.
+//
+
+#include "stdafx.h"
+#include <clocale>
+#pragma warning(disable:4996)
+#include "math.h"
+#include "conio.h"
+#include "locale.h"
+
+int _tmain(int argc, _TCHAR* argv[])
+{
+	double x1, x2, x;
+	int n;
+	setlocale(LC_CTYPE, "");
+	puts("¬ведите х1, x2 и n");
+	scanf("%lf", &x1);
+	scanf("%lf", &x2);
+	scanf("%d", &n);
+	if (n>=3)
+		{
+			for (int i = 3; i <= n; i++)
+			{
+				x = (((i - 1)*(i - 1)*(i - 1)*x2) / ((i - 2)*(i - 2)*x1));
+				x1 = x2;
+				x2 = x;
+			}
+			printf("\nн-ный х= %lf", x);
+		}
+	else if (n == 1) printf("\nн-ный х= %lf", x1);
+		 else printf("\nн-ный х= %lf", x2);
+	getch();
+	return 0;
+}
+
+

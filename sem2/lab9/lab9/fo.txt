@@ -1,0 +1,6 @@
+1 2 3 4 red
+8 7 6 2 green
+9 8 7 2 green
+4 4 4 7 blue
+9 9 9 3 red
+1 2 3 1 cian

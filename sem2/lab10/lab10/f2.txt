@@ -1,0 +1,4 @@
+tov11 100 50 firm11 30 15 st11 2
+tov21 150 40 firm21 20 20 st21 5
+tov31 50 30 firm31 50 25 st31 7
+tov41 200 20 firm41 80 30 st41 10

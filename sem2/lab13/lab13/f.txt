@@ -1,0 +1,5 @@
+fam1 flat 1000000 house 250 car 300
+fam2 flat 10000000 house 400
+fam3 flat 500000
+fam4 house 500 car 250
+fam5 car 350

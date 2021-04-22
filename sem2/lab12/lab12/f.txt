@@ -1,0 +1,8 @@
+manager fam1 70000
+engineer fam2
+worker fam3 70
+worker fam33 150
+manager fam11 100000
+manager fam111 30000
+engineer fam22
+supervisor fam4 3

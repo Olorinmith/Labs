@@ -1,0 +1,6 @@
+Sun 10 5
+Sirius 20 2.5
+Arktyr 17 4
+Vega 9 2.5
+Toliman 25 5
+Rigel 23 3
